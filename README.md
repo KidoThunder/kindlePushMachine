@@ -1,2 +1,2 @@
-# kindlePushMachine
-push some books to my kindle
+# KindlePushMachine
+Push some books to my kindle
